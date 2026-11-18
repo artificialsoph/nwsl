@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.claude/
+
+# regenerable API pulls (notebooks re-pull when the cache is missing)
+end_of_season_26/cache/
